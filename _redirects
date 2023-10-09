@@ -1,1 +1,3 @@
-/*  https://support.atena.life/portal/ja/kb/articles/maintenance  301
+/hc/ja/requests/new  /portal/ja/newticket  301
+/hc/ja/articles/*  /portal/ja/kb/articles/:splat  301
+/*  /  301
