@@ -1,3 +1,3 @@
-/hc/ja/requests/new  /portal/ja/newticket  301
-/hc/ja/articles/*  /portal/ja/kb/articles/:splat  301
-/*  /  301
+/hc/ja/requests/new  https://support.atena.life/portal/ja/newticket  301
+/hc/ja/articles/*  https://support.atena.life/portal/ja/kb/articles/:splat  301
+/*  https://support.atena.life/  301
