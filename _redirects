@@ -1,5 +1,5 @@
 /hc/ja/requests/new  https://support.atena.life/portal/newticket  301
-/hc/ja/articles/([0-9]+).*  https://support.atena.life/portal/kb/articles/:1  301
+/hc/ja/articles/4402783415961-Chatwork%E3%81%A7%E9%80%9A%E7%9F%A5%E3%82%92%E5%8F%97%E3%81%91%E5%8F%96%E3%82%8B  https://support.atena.life/portal/kb/articles/4402783415961  301
 /hc/ja/articles/*  https://support.atena.life/portal/kb/articles/:splat  301
 / https://support.atena.life/portal/kb/atena 301
 /*  https://support.atena.life/portal/home  301
