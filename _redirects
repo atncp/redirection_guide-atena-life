@@ -1,5 +1,5 @@
 /hc/ja/requests/new  https://support.atena.life/portal/newticket  301
-/hc/ja/articles/:id([^-]+)-:slug  https://support.atena.life/portal/kb/articles/:id  301
+/hc/ja/articles/:id-:slug  https://support.atena.life/portal/kb/articles/:id  301
 /hc/ja/articles/*  https://support.atena.life/portal/kb/articles/:splat  301
 / https://support.atena.life/portal/kb/atena 301
 /*  https://support.atena.life/portal/home  301
